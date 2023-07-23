@@ -1,7 +1,9 @@
-## ⭐ Olá!! Bem vindo(a) ao meu GitHub ⭐
+##  Olá!! Bem vindo(a) ao meu GitHub ☺️
 
-![JoaoPito's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPito&show_icons=true&title_color=11111b&text_color=11111b&bg_color=94e2d5,94e2d5,cba6f7)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPito&layout=donut&title_color=11111b&text_color=11111b&bg_color=94e2d5,94e2d5,cba6f7)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=JoaoPito&show_icons=true&title_color=11111b&text_color=11111b&ring_color=11111b&bg_color=30,74c7ec,94e2d5,cba6f7&rank_icon=github&border_radius=16&border_color=11111b&custom_title=Stats" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPito&layout=donut&title_color=11111b&text_color=11111b&bg_color=30,74c7ec,94e2d5,cba6f7&hide=assembly&border_radius=16&border_color=11111b&langs_count=3" />
+</div>
 
 <!--
 **JoaoPito/JoaoPito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
