@@ -1,6 +1,7 @@
-## ⭐ Olá!! ⭐
+## ⭐ Olá!! Bem vindo(a) ao meu GitHub ⭐
 
-![JoaoPito's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPito&show_icons=true&theme=nord)
+![JoaoPito's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPito&show_icons=true&title_color=11111b&text_color=11111b&bg_color=94e2d5,94e2d5,cba6f7)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPito&layout=donut&title_color=11111b&text_color=11111b&bg_color=94e2d5,94e2d5,cba6f7)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **JoaoPito/JoaoPito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
