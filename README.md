@@ -1,10 +1,12 @@
-##  Olá!! Bem vindo(a) ao meu GitHub ☺️
+##  Welcome to my GitHub page!! ☺️
 
 <div>
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=JoaoPito&show_icons=true&title_color=11111b&text_color=11111b&ring_color=11111b&bg_color=30,74c7ec,94e2d5,cba6f7&rank_icon=github&border_radius=16&border_color=11111b&custom_title=Stats" />
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPito&layout=donut&title_color=11111b&text_color=11111b&bg_color=30,74c7ec,94e2d5,cba6f7&hide=assembly&border_radius=16&border_color=11111b&langs_count=3" />
 </div>
 
+<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" /> <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+   
 ---
 
 - 🌱 I’m currently learning .NET, Algorithms, Clean Code and other stuff
