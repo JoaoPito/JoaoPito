@@ -11,7 +11,7 @@
 ---
 
 - 🌱 I’m currently learning .NET, Algorithms, Clean Code and other stuff
-- 🔭 I’m currently working on personal projects and practicing what i'm learning
+- 🔭 I’m currently working on personal projects and practicing what i'm learning. Never stop being curious ;)
 
 <a href = "mailto:joao.dantaspito@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/JoaoPito" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
