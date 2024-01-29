@@ -10,7 +10,7 @@
 
 ---
 
-- 🌱 I’m currently learning .NET, Algorithms, Clean Code and other stuff
+- 🌱 I’m currently learning Microsoft Excel, Machine Learning Basics and some Python stuff
 - 🔭 I’m currently working on personal projects and practicing what i'm learning. Never stop being curious ;)
 
 <a href = "mailto:joao.dantaspito@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
