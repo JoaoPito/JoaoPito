@@ -9,7 +9,7 @@
 
 
 ---
-
+### Contact info
 <a href = "mailto:joao.dantaspito@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href = "mailto:joao.pito@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/JoaoPito" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
